@@ -1,0 +1,9 @@
+# Book settings
+title: Buku Saku Pembelajaran Mesin dan Pengenalan Pola
+author: Ali Akbar Septiandri
+# logo: 'images/logo.png'
+only_build_toc_files: true
+
+repository:
+    url: https://github.com/aliakbars/mlpr-book
+

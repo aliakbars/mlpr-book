@@ -1,0 +1,7 @@
+# Pendahuluan
+
+Kebutuhan untuk mengolah dan mengambil pengetahuan dari big data menjadi topik yang sedang hangat dibicarakan industri. Buku ini mengulas berbagai algoritma *machine learning* seperti Naive Bayes, k-Nearest Neighbours (k-NN), linear regression, k-Means, serta penerapannya untuk kasus natural language processing (NLP) dan computer vision (CV).
+
+Ada baiknya untuk sedikit mengulas materi aljabar linear, kalkulus, dan statistika Anda sebelum memulai kuliah ini. Beberapa orang merekomendasikan untuk belajar dari bagian pertama buku [Deep Learning](http://www.deeplearningbook.org/) yang ditulis oleh Ian Goodfellow dkk. Alternatif lain, Anda bisa melihat buku [Mathematics for Machine Learning](https://mml-book.com). Untuk pemahaman lebih lanjut, Anda juga bisa melihat materi probabilitas untuk ilmu komputer yang sangat menarik di kuliah Stanford [CS109: Probability for Computer Scientists](https://web.stanford.edu/class/archive/cs/cs109/cs109.1178/).
+
+Buku ini banyak mengadaptasi materi dari [Introductory Applied Machine Learning](http://www.inf.ed.ac.uk/teaching/courses/iaml/) dan [Machine Learning & Pattern Recognition](http://www.inf.ed.ac.uk/teaching/courses/mlpr/) dari the University of Edinburgh, serta [CS229: Machine Learning](http://cs229.stanford.edu/) dari Stanford University. Di samping itu, beberapa materi juga diadaptasi dari buku [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) oleh Jake VanderPlas.
